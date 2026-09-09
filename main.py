@@ -1,14 +1,3 @@
-"""
-Sistema Experto - Diagnóstico IT
-=================================
-Punto de entrada del programa. Ejecuta una batería de casos de prueba
-diseñados para forzar que el motor de inferencia tome cada una de sus
-rutas posibles (cobertura de ramas), tal como pide el enunciado del
-Taller de Laboratorio.
-
-Ejecutar con:
-    python main.py
-"""
 
 from sistema_experto1 import ServidorEstado, diagnosticar_servidor
 
